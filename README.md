@@ -1,6 +1,6 @@
 # 2 - google-landing-page
 
-Here is my second project. I made this form by using HTML & CSS. 
+Here is my second project. I made this website by using HTML & CSS. 
 In this project, we simulate "Google's Landing Page" without backend side.
 I learned how to shape website with HTML and CSS codes.
 
